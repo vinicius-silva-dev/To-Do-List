@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "title": "Estudar Vue.js 2",
+      "completed": false,
+      "id": "2fbc"
+    },
+    {
+      "title": "Estudar Node.js",
+      "completed": true,
+      "id": "bf9a"
+    }
+  ]
+}
